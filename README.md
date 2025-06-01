@@ -45,12 +45,6 @@ FitBit Fitness Tracker data from 30+ users over March–May 2016, including:
 
 ---
 
-## 📊 Tableau Dashboard
-
-You can view the interactive Tableau dashboard [here](#) *(Add a Tableau Public link if published)*.
-
----
-
 ## 🚀 Business Recommendations
 
 - Emphasize education on daily activity goals in marketing campaigns.
@@ -59,6 +53,3 @@ You can view the interactive Tableau dashboard [here](#) *(Add a Tableau Public 
 
 ---
 
-## 📌 License
-
-This project uses public domain data and is intended for educational and portfolio use only.
